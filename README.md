@@ -1,0 +1,1 @@
+Text Classification using Torch Text. This is similar to pytorch tutorial with only change being that LSTM is used after the embedding bag layer. The output from the LSTM(h(t)) is fed to the linear layer.
